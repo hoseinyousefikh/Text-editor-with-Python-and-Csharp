@@ -1,0 +1,17 @@
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Db.SqlServer.Ef\bin\Debug\net9.0\App.Infra.Data.Db.SqlServer.Ef.deps.json
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Db.SqlServer.Ef\bin\Debug\net9.0\App.Infra.Data.Db.SqlServer.Ef.runtimeconfig.json
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Db.SqlServer.Ef\bin\Debug\net9.0\App.Infra.Data.Db.SqlServer.Ef.dll
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Db.SqlServer.Ef\bin\Debug\net9.0\App.Infra.Data.Db.SqlServer.Ef.pdb
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Db.SqlServer.Ef\bin\Debug\net9.0\App.Domain.Core.dll
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Db.SqlServer.Ef\bin\Debug\net9.0\App.Domain.Core.pdb
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Db.SqlServer.Ef\obj\Debug\net9.0\App.Infra.Data.Db.SqlServer.Ef.csproj.AssemblyReference.cache
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Db.SqlServer.Ef\obj\Debug\net9.0\App.Infra.Data.Db.SqlServer.Ef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Db.SqlServer.Ef\obj\Debug\net9.0\App.Infra.Data.Db.SqlServer.Ef.AssemblyInfoInputs.cache
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Db.SqlServer.Ef\obj\Debug\net9.0\App.Infra.Data.Db.SqlServer.Ef.AssemblyInfo.cs
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Db.SqlServer.Ef\obj\Debug\net9.0\App.Infra.Data.Db.SqlServer.Ef.csproj.CoreCompileInputs.cache
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Db.SqlServer.Ef\obj\Debug\net9.0\App.Infr.7A55DB56.Up2Date
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Db.SqlServer.Ef\obj\Debug\net9.0\App.Infra.Data.Db.SqlServer.Ef.dll
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Db.SqlServer.Ef\obj\Debug\net9.0\refint\App.Infra.Data.Db.SqlServer.Ef.dll
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Db.SqlServer.Ef\obj\Debug\net9.0\App.Infra.Data.Db.SqlServer.Ef.pdb
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Db.SqlServer.Ef\obj\Debug\net9.0\App.Infra.Data.Db.SqlServer.Ef.genruntimeconfig.cache
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Db.SqlServer.Ef\obj\Debug\net9.0\ref\App.Infra.Data.Db.SqlServer.Ef.dll

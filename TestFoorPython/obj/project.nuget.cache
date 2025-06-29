@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U3DndL+XCOg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hossein\\source\\repos\\TestFoorPython\\TestFoorPython\\TestFoorPython.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hossein\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\Hossein\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

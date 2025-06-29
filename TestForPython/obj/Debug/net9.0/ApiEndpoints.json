@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "TestForPython.Controllers.TextController",
+    "Method": "SaveText",
+    "RelativePath": "api/texts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "App.Domain.Core.Home.DTO.SaveTextRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestForPython.Controllers.TextController",
+    "Method": "GetUserTexts",
+    "RelativePath": "api/texts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

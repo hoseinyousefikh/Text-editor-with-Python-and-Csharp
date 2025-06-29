@@ -1,0 +1,11 @@
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.Core\bin\Debug\net9.0\App.Domain.Core.deps.json
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.Core\bin\Debug\net9.0\App.Domain.Core.dll
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.Core\bin\Debug\net9.0\App.Domain.Core.pdb
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.Core\obj\Debug\net9.0\App.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.Core\obj\Debug\net9.0\App.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.Core\obj\Debug\net9.0\App.Domain.Core.AssemblyInfo.cs
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.Core\obj\Debug\net9.0\App.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.Core\obj\Debug\net9.0\App.Domain.Core.dll
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.Core\obj\Debug\net9.0\refint\App.Domain.Core.dll
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.Core\obj\Debug\net9.0\App.Domain.Core.pdb
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.Core\obj\Debug\net9.0\ref\App.Domain.Core.dll

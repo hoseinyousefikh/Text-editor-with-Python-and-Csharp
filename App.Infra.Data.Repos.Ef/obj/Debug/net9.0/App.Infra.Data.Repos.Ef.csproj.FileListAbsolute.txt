@@ -1,0 +1,17 @@
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Repos.Ef\bin\Debug\net9.0\App.Infra.Data.Repos.Ef.deps.json
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Repos.Ef\bin\Debug\net9.0\App.Infra.Data.Repos.Ef.dll
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Repos.Ef\bin\Debug\net9.0\App.Infra.Data.Repos.Ef.pdb
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Repos.Ef\obj\Debug\net9.0\App.Infra.Data.Repos.Ef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Repos.Ef\obj\Debug\net9.0\App.Infra.Data.Repos.Ef.AssemblyInfoInputs.cache
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Repos.Ef\obj\Debug\net9.0\App.Infra.Data.Repos.Ef.AssemblyInfo.cs
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Repos.Ef\obj\Debug\net9.0\App.Infra.Data.Repos.Ef.csproj.CoreCompileInputs.cache
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Repos.Ef\obj\Debug\net9.0\App.Infra.Data.Repos.Ef.dll
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Repos.Ef\obj\Debug\net9.0\refint\App.Infra.Data.Repos.Ef.dll
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Repos.Ef\obj\Debug\net9.0\App.Infra.Data.Repos.Ef.pdb
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Repos.Ef\obj\Debug\net9.0\ref\App.Infra.Data.Repos.Ef.dll
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Repos.Ef\obj\Debug\net9.0\App.Infra.Data.Repos.Ef.csproj.AssemblyReference.cache
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Repos.Ef\bin\Debug\net9.0\App.Domain.Core.dll
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Repos.Ef\bin\Debug\net9.0\App.Infra.Data.Db.SqlServer.Ef.dll
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Repos.Ef\bin\Debug\net9.0\App.Domain.Core.pdb
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Repos.Ef\bin\Debug\net9.0\App.Infra.Data.Db.SqlServer.Ef.pdb
+C:\Users\Hossein\source\repos\TestFoorPython\App.Infra.Data.Repos.Ef\obj\Debug\net9.0\App.Infr.B170AF2F.Up2Date

@@ -1,0 +1,15 @@
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.AppServices\bin\Debug\net9.0\App.Domain.AppServices.deps.json
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.AppServices\bin\Debug\net9.0\App.Domain.AppServices.dll
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.AppServices\bin\Debug\net9.0\App.Domain.AppServices.pdb
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.AppServices\obj\Debug\net9.0\App.Domain.AppServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.AppServices\obj\Debug\net9.0\App.Domain.AppServices.AssemblyInfoInputs.cache
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.AppServices\obj\Debug\net9.0\App.Domain.AppServices.AssemblyInfo.cs
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.AppServices\obj\Debug\net9.0\App.Domain.AppServices.csproj.CoreCompileInputs.cache
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.AppServices\obj\Debug\net9.0\App.Domain.AppServices.dll
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.AppServices\obj\Debug\net9.0\refint\App.Domain.AppServices.dll
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.AppServices\obj\Debug\net9.0\App.Domain.AppServices.pdb
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.AppServices\obj\Debug\net9.0\ref\App.Domain.AppServices.dll
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.AppServices\bin\Debug\net9.0\App.Domain.Core.dll
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.AppServices\bin\Debug\net9.0\App.Domain.Core.pdb
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.AppServices\obj\Debug\net9.0\App.Domain.AppServices.csproj.AssemblyReference.cache
+C:\Users\Hossein\source\repos\TestFoorPython\App.Domain.AppServices\obj\Debug\net9.0\App.Doma.0BF5E7BD.Up2Date
