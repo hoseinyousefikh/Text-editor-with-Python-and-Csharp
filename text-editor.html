@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="fa">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ویرایشگر متن</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        #logoutBtn {
+            background-color: #e74c3c;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-top: 10px;
+            transition: background-color 0.3s ease;
+        }
+
+        #logoutBtn:hover {
+            background-color: #c0392b;
+        }
+
+        .button-group {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            /* دکمه‌ها به چپ بچسبند، برای راست‌چین می‌تونی بزاری flex-end یا center */
+            gap: 10px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>ویرایشگر متن</h1>
+        <textarea id="content" placeholder="متن خود را اینجا بنویسید..."></textarea>
+        <div class="button-group">
+            <button id="saveBtn" class="btn">ذخیره متن</button>
+            <button id="logoutBtn" class="btn" onclick="logout()">خروج</button>
+        </div>
+        <div id="message" class="message"></div>
+    </div>
+
+    <script src="text.js"></script>
+    <script>
+        function logout() {
+            window.location.href = "login.html";
+        }
+    </script>
+</body>
+
+</html>
